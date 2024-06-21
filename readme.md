@@ -4,7 +4,7 @@ some are practice works and some of them are freelance projects.
 
 https://editediction.com 
 
-https://Ecommerce-store-react-app.netlify.app
+https://Ecommerce-store-reactjs-app.netlify.app
 
 https://metatalemedia.in
 
