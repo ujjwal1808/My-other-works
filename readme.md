@@ -2,7 +2,7 @@
 
 some are practice works and some of them are freelance projects.
 
-https://astrologytest.netlify.app
+https://astrology-test.netlify.app
 
 https://ede-portfolio.netlify.app
 
