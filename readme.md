@@ -8,7 +8,7 @@ https://ede-portfolio.netlify.app
 
 https://Ecommerce-store-reactjs-app.netlify.app
 
-https://ecommerce-mern-frontend-tsl3.onrender.com
+full stack - https://ecommerce-mern-frontend-tsl3.onrender.com
 
 https://metatalemedia.in
 
