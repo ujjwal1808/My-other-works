@@ -6,6 +6,8 @@ https://astrology-test.netlify.app
 
 https://ede-portfolio.netlify.app
 
+https://millwrightssample.netlify.app/authentication
+
 https://Ecommerce-store-reactjs-app.netlify.app
 
 https://rococo-centaur-a6ab3f.netlify.app/maindashboard
